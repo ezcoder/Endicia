@@ -1,4 +1,14 @@
 {
+  "name": "ezcoder/endicia",
+    "description": "Endicia Composer package adapted to laravel.",
+    "keywords": ["usps", "endicia"],
+    "license": "MIT",  
+    "authors": [
+        {
+            "name": "Ben Williamson",
+            "email": "ben+github@thoughtgrena.de"
+        }
+    ],    
     "require": {
         "guzzle/guzzle": "~3.7"
     }
